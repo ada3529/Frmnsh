@@ -1,0 +1,20 @@
+{
+    "ownerNumber": "6285380779466@s.whatsapp.net",
+    "ownerName": "Andrian",
+    "botName": "Wps Bot",
+    "footer": "Andrian",
+    "sessionName": "wps-md",
+    "pathimg": "./media/logo.jpg",
+    "lolkey": "WpsBot",
+    "instagram": "https://instagram.com/cekor.store",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    },
+    "sticker": {
+        "packname": "Instagram",
+        "author": "@cekor.store"
+    }
+}
